@@ -1,23 +1,48 @@
-# BOT ZDG
+# Reescrita do BOT ZDG em NodeJS para Python
 
-Olá, essa é uma implementação da biblioteca <a href="https://github.com/pedroslopez/whatsapp-web.js">wweb.js</a>
+### Como instalar?
+```sh
+- git clone git@github.com:Thiago-cog/refatoracao_allan_vigiani_thiago_oliveira.git
+- cd refatoracao_allan_vigiani_thiago_oliveira
+```
+Criar ambiente virtual (venv) - Linux
+```sh
+- python3 -m venv venv
+- source venv/bin/activate
+```
 
-Conheça o canal da Comunidade ZDG:
+Criar ambiente virtual (venv) - Windows
+```sh
+- python -m venv venv
+- venv\Scripts\activate
+```
 
-- <a href="https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA">Comunidade ZDG</a>
+Instalar as dependências do projeto
+```sh
+- pip install requirements.txt
+```
+
+Criar .env baseando-se no .env-example e preencher as variáveis de ambiente API_URL e TOKEN
+```sh
+- cp .env-example .env
+```
+```dosini
+API_URL=api_da_url
+TOKEN=seu_token
+```
+
+### Como inicializar o projeto?
+
+Após concluir os passos acima, deve-se inicializar a aplicação utilizando o seguinte comando
+```sh
+- 
+```
+
+### Sobre o projeto.
 
 
-### Como usar?
+### Conheça os componentes da realização da reescrita do BOT
 
-- git clone https://github.com/pedroherpeto/comunidadezdg.git
-- cd comunidadezdg
-- Rodar `npm install`
-- Rodar `npm start`
-- Abrir o browser no endereço `http://localhost:8000`
-- Ler o QRCode na tela
-
-
-## Conheça a Comunidade ZDG
-
-🤑 Garanta sua renda extra explorando todo o poder da API de graça, mesmo que você nao seja programador, clicando no link <a href="https://comunidadezdg.com.br">Comunidade ZDG</a>. Obrigado =)
+- Allan Vigiani Ferreira Costa - 202010792
+- Thiago de Oliveira Santos - 202022059
 
