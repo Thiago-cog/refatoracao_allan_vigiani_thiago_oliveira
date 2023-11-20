@@ -39,10 +39,11 @@ Após concluir os passos acima, deve-se inicializar a aplicação utilizando o s
 ```
 
 ### Caso queira testar o BOT.
-Envia uma mensagem 'oi'para o n[umero 55219....
+Envia uma mensagem 'oi'para o número 5521996304047
 
 ### Sobre o projeto.
 Reescrita do BOT de Whatsapp em NodeJS para Python (Flask) pelos dicentes Allan Vigiani e Thiago de Oliveira Santos, 7 período de Engenharia de Software pela Universidade de Vassouras - Maricá. 
+Adotamos a medida de manter as opções originais do bot mudando somente a linguaguem de programação. Retiramos bibliotecas que não eram necessárias e que usam recursos demais na utilização do bot original.
 
 ### Conheça os componentes da realização da reescrita do BOT
 
