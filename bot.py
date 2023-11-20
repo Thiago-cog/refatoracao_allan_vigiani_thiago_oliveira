@@ -50,7 +50,7 @@ class ZdgBot:
     def send_schedule(self, chatID):
         data = {
             "to": chatID,
-            "audio": "https://zdg-bot.s3.amazonaws.com/indice.pdf",
+            "document": "https://zdg-bot.s3.amazonaws.com/indice.pdf",
         }
         answer = self.send_requests("messages/document", data)
         return answer

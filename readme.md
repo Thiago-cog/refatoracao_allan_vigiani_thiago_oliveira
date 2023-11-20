@@ -38,6 +38,9 @@ Após concluir os passos acima, deve-se inicializar a aplicação utilizando o s
 - 
 ```
 
+### Link do vídeo
+https://www.loom.com/share/c3ca1b99855d4d7c9e36f9fb19c1eab1?sid=b3046f2c-9877-4c9c-ac69-747a2a69e197
+
 ### Caso queira testar o BOT.
 Envia uma mensagem 'oi'para o número 5521996304047
 
